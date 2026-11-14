@@ -1,0 +1,166 @@
+<hierarchy rotation="0">
+  <node resource-id="" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,0][1440,3168]">
+    <node resource-id="" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,0][1440,3168]">
+      <node resource-id="" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,0][1440,3168]">
+        <node resource-id="com.instagram.android:id/action_bar_root" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,0][1440,3168]">
+          <node resource-id="android:id/content" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,0][1440,3168]">
+            <node resource-id="" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,0][1440,3168]">
+              <node resource-id="com.instagram.android:id/swipe_navigation_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,0][1440,3168]">
+                <node resource-id="com.instagram.android:id/layout_container_center_right_coordinator_layout" class="android.view.ViewGroup" focused="false" selected="false" bounds="[0,0][1440,2992]">
+                  <node resource-id="com.instagram.android:id/layout_container_right" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,2992]" />
+                  <node resource-id="com.instagram.android:id/activity_and_camera_shared_views_main_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,2992]" />
+                  <node resource-id="com.instagram.android:id/layout_container_main_panel" class="android.view.ViewGroup" focused="false" selected="false" bounds="[0,160][1440,2992]">
+                    <node resource-id="com.instagram.android:id/layout_container_main_wrapper" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,2992]">
+                      <node resource-id="com.instagram.android:id/layout_container_main" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,2992]" />
+                      <node resource-id="com.instagram.android:id/swipeable_tab_view_pager" class="androidx.viewpager.widget.ViewPager" focused="false" selected="false" bounds="[0,160][1440,2992]">
+                        <node resource-id="com.instagram.android:id/swipeable_nav_view_pager_inner_recycler_view" class="androidx.recyclerview.widget.RecyclerView" focused="true" selected="false" bounds="[0,160][1440,2992]">
+                          <node resource-id="" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,2992]">
+                            <node resource-id="com.instagram.android:id/layout_container_swipeable" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,2992]">
+                              <node resource-id="" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,384][1440,2992]">
+                                <node resource-id="com.instagram.android:id/tabbed_pager" class="androidx.viewpager.widget.ViewPager" focused="false" selected="false" bounds="[0,384][1440,2992]">
+                                  <node resource-id="com.instagram.android:id/layout_recyclerview_parent_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,560][1440,2992]">
+                                    <node resource-id="com.instagram.android:id/refreshable_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,560][1440,2992]">
+                                      <node resource-id="com.instagram.android:id/recycler_view" class="androidx.recyclerview.widget.RecyclerView" focused="false" selected="false" bounds="[0,560][1440,2992]">
+                                        <node resource-id="com.instagram.android:id/hcm_frame_layout" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,560][1440,1012]">
+                                          <node resource-id="com.instagram.android:id/meta_ai_hcm_layout" class="android.view.ViewGroup" focused="false" selected="false" bounds="[0,560][1440,1012]">
+                                            <node resource-id="com.instagram.android:id/meta_ai_header_container" class="android.view.ViewGroup" focused="false" selected="false" bounds="[64,624][1376,700]">
+                                              <node resource-id="com.instagram.android:id/meta_ai_button" class="android.widget.ImageView" focused="false" selected="false" bounds="[64,624][144,700]" />
+                                              <node resource-id="com.instagram.android:id/meta_ai_hcm_header" class="android.widget.TextView" focused="false" selected="false" bounds="[156,624][1376,700]" />
+                                            </node>
+                                            <node resource-id="com.instagram.android:id/meta_ai_hcm_body_shimmer" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[64,748][1376,1012]">
+                                              <node resource-id="com.instagram.android:id/meta_ai_hcm_body_shimmer_content" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[64,748][1376,1012]">
+                                                <node resource-id="" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[64,748][1376,804]" />
+                                                <node resource-id="" class="android.view.View" focused="false" selected="false" bounds="[64,820][1376,876]" />
+                                                <node resource-id="" class="android.view.View" focused="false" selected="false" bounds="[64,892][1376,948]" />
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/search_section_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,1030][1440,1224]">
+                                          <node resource-id="com.instagram.android:id/title_text_view" class="android.widget.TextView" focused="false" selected="false" bounds="[64,1030][1440,1224]" />
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/row_search_user_container" class="android.widget.Button" focused="false" selected="false" bounds="[0,1230][1440,1462]">
+                                          <node resource-id="com.instagram.android:id/row_search_user_vertical_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,1230][1440,1462]">
+                                            <node resource-id="com.instagram.android:id/row_search_user_info_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,1230][1440,1462]">
+                                              <node resource-id="com.instagram.android:id/row_search_avatar_with_ring" class="android.widget.Button" focused="false" selected="false" bounds="[64,1230][320,1462]">
+                                                <node resource-id="com.instagram.android:id/reel_seen_state" class="android.view.View" focused="false" selected="false" bounds="[64,1242][272,1450]" />
+                                                <node resource-id="com.instagram.android:id/row_search_avatar_in_ring" class="android.widget.ImageView" focused="false" selected="false" bounds="[80,1258][256,1434]" />
+                                              </node>
+                                              <node resource-id="" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[320,1280][1376,1412]">
+                                                <node resource-id="" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[320,1280][576,1351]">
+                                                  <node resource-id="com.instagram.android:id/row_search_user_username" class="android.widget.TextView" focused="false" selected="false" bounds="[320,1280][576,1351]" />
+                                                </node>
+                                                <node resource-id="" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[320,1351][1163,1412]">
+                                                  <node resource-id="com.instagram.android:id/row_search_user_fullname" class="android.widget.TextView" focused="false" selected="false" bounds="[320,1351][1163,1412]" />
+                                                </node>
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/row_search_user_container" class="android.widget.Button" focused="false" selected="false" bounds="[0,1468][1440,1700]">
+                                          <node resource-id="com.instagram.android:id/row_search_user_vertical_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,1468][1440,1700]">
+                                            <node resource-id="com.instagram.android:id/row_search_user_info_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,1468][1440,1700]">
+                                              <node resource-id="com.instagram.android:id/row_search_avatar_with_ring" class="android.widget.Button" focused="false" selected="false" bounds="[64,1468][320,1700]">
+                                                <node resource-id="com.instagram.android:id/row_search_avatar_in_ring" class="android.widget.ImageView" focused="false" selected="false" bounds="[80,1496][256,1672]" />
+                                              </node>
+                                              <node resource-id="" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[320,1518][1376,1650]">
+                                                <node resource-id="" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[320,1518][631,1589]">
+                                                  <node resource-id="com.instagram.android:id/row_search_user_username" class="android.widget.TextView" focused="false" selected="false" bounds="[320,1518][631,1589]" />
+                                                </node>
+                                                <node resource-id="" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[320,1589][1222,1650]">
+                                                  <node resource-id="com.instagram.android:id/row_search_user_fullname" class="android.widget.TextView" focused="false" selected="false" bounds="[320,1589][1222,1650]" />
+                                                </node>
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/search_section_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,1706][1440,1900]">
+                                          <node resource-id="com.instagram.android:id/title_text_view" class="android.widget.TextView" focused="false" selected="false" bounds="[64,1706][1440,1900]" />
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/grid_card_layout_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,1906][717,2864]">
+                                          <node resource-id="com.instagram.android:id/media_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,1906][717,2862]">
+                                            <node resource-id="com.instagram.android:id/layout_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,1906][717,2862]">
+                                              <node resource-id="" class="android.view.View" focused="false" selected="false" bounds="[0,1906][717,2862]" />
+                                              <node resource-id="com.instagram.android:id/play_count_container" class="android.view.ViewGroup" focused="false" selected="false" bounds="[0,2737][717,2862]">
+                                                <node resource-id="com.instagram.android:id/play_count_logo" class="android.widget.ImageView" focused="false" selected="false" bounds="[32,2776][80,2824]" />
+                                                <node resource-id="com.instagram.android:id/preview_clip_play_count" class="android.widget.TextView" focused="false" selected="false" bounds="[96,2769][229,2830]" />
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/grid_card_layout_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[723,1906][1440,2864]">
+                                          <node resource-id="com.instagram.android:id/media_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[723,1906][1440,2862]">
+                                            <node resource-id="com.instagram.android:id/image_button" class="android.widget.ImageView" focused="false" selected="false" bounds="[723,1906][1440,2862]" />
+                                          </node>
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/grid_card_layout_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,2870][717,2992]">
+                                          <node resource-id="com.instagram.android:id/small_ad_card_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,2870][717,2992]">
+                                            <node resource-id="com.instagram.android:id/image_button" class="android.widget.Button" focused="false" selected="false" bounds="[0,2870][717,2992]" />
+                                            <node resource-id="com.instagram.android:id/ad_overlay" class="android.view.ViewGroup" focused="false" selected="false" bounds="[0,2870][717,2992]" />
+                                            <node resource-id="com.instagram.android:id/serp_ad_chrome" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,2870][717,2992]" />
+                                          </node>
+                                        </node>
+                                        <node resource-id="com.instagram.android:id/grid_card_layout_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[723,2870][1440,2992]">
+                                          <node resource-id="com.instagram.android:id/media_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[723,2870][1440,2992]">
+                                            <node resource-id="com.instagram.android:id/image_button" class="android.widget.ImageView" focused="false" selected="false" bounds="[723,2870][1440,2992]" />
+                                          </node>
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                                <node resource-id="com.instagram.android:id/view_switcher_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,384][1440,564]">
+                                  <node resource-id="com.instagram.android:id/search_tab_bar_layout" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,384][1440,560]">
+                                    <node resource-id="com.instagram.android:id/fixed_tabbar_view" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,384][1440,560]">
+                                      <node resource-id="com.instagram.android:id/fixed_tabbar_tabs_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,384][1440,560]">
+                                        <node resource-id="" class="android.widget.TabWidget" focused="false" selected="true" bounds="[0,384][360,560]">
+                                          <node resource-id="com.instagram.android:id/tab_button_name_text" class="android.widget.TextView" focused="false" selected="true" bounds="[80,436][279,508]" />
+                                        </node>
+                                        <node resource-id="" class="android.widget.TabWidget" focused="false" selected="false" bounds="[360,384][720,560]">
+                                          <node resource-id="com.instagram.android:id/tab_button_name_text" class="android.widget.TextView" focused="false" selected="false" bounds="[413,436][666,508]" />
+                                        </node>
+                                        <node resource-id="" class="android.widget.TabWidget" focused="false" selected="false" bounds="[720,384][1080,560]">
+                                          <node resource-id="com.instagram.android:id/tab_button_name_text" class="android.widget.TextView" focused="false" selected="false" bounds="[822,436][978,508]" />
+                                        </node>
+                                        <node resource-id="" class="android.widget.TabWidget" focused="false" selected="false" bounds="[1080,384][1440,560]">
+                                          <node resource-id="com.instagram.android:id/tab_button_name_text" class="android.widget.TextView" focused="false" selected="false" bounds="[1198,436][1322,508]" />
+                                        </node>
+                                      </node>
+                                      <node resource-id="com.instagram.android:id/selected_tab_indicator" class="android.view.View" focused="false" selected="false" bounds="[0,552][1440,560]" />
+                                    </node>
+                                  </node>
+                                  <node resource-id="com.instagram.android:id/view_switcher_shadow" class="android.view.View" focused="false" selected="false" bounds="[0,560][1440,564]" />
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                      <node resource-id="com.instagram.android:id/action_bar_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,384]">
+                        <node resource-id="com.instagram.android:id/action_bar_wrapper" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,384]">
+                          <node resource-id="com.instagram.android:id/action_bar" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,160][1440,384]">
+                            <node resource-id="com.instagram.android:id/action_bar_new_title_container" class="android.widget.LinearLayout" focused="false" selected="false" bounds="[0,160][224,384]">
+                              <node resource-id="com.instagram.android:id/action_bar_button_back" class="android.widget.ImageView" focused="false" selected="false" bounds="[0,160][224,384]" />
+                            </node>
+                            <node resource-id="com.instagram.android:id/action_bar_textview_custom_title_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[224,160][1408,384]">
+                              <node resource-id="com.instagram.android:id/action_bar_search_hints_text_layout" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[224,188][1360,364]">
+                                <node resource-id="com.instagram.android:id/action_bar_search_edit_text" class="android.widget.EditText" focused="false" selected="false" bounds="[224,188][1360,364]" />
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+                <node resource-id="com.instagram.android:id/bottom_sheet_camera_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,160][1440,2992]" />
+              </node>
+              <node resource-id="com.instagram.android:id/overlay_layout_container" class="android.widget.FrameLayout" focused="false" selected="false" bounds="[0,0][1440,2992]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node resource-id="android:id/navigationBarBackground" class="android.view.View" focused="false" selected="false" bounds="[0,2992][1440,3168]" />
+  </node>
+</hierarchy>

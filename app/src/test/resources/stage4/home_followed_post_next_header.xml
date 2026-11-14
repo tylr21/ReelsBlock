@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hierarchy rotation="0">
+  <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+    <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+      <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+        <node resource-id="com.instagram.android:id/action_bar_root" selected="false" bounds="[0,0][1440,3168]">
+          <node resource-id="android:id/content" selected="false" bounds="[0,0][1440,3168]">
+            <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+              <node resource-id="com.instagram.android:id/swipe_navigation_container" selected="false" bounds="[0,0][1440,3168]">
+                <node resource-id="com.instagram.android:id/layout_container_center_right_coordinator_layout" selected="false" bounds="[0,0][1440,2992]">
+                  <node resource-id="com.instagram.android:id/layout_container_right" selected="false" bounds="[0,160][1440,2992]" />
+                  <node resource-id="com.instagram.android:id/activity_and_camera_shared_views_main_container" selected="false" bounds="[0,160][1440,2992]" />
+                  <node resource-id="com.instagram.android:id/layout_container_main_panel" selected="false" bounds="[0,160][1440,2992]">
+                    <node resource-id="com.instagram.android:id/layout_container_main_wrapper" selected="false" bounds="[0,160][1440,2992]">
+                      <node resource-id="com.instagram.android:id/layout_container_main" selected="false" bounds="[0,160][1440,2800]" />
+                      <node resource-id="com.instagram.android:id/swipeable_tab_view_pager" selected="false" bounds="[0,160][1440,2800]">
+                        <node resource-id="com.instagram.android:id/swipeable_nav_view_pager_inner_recycler_view" selected="false" bounds="[0,160][1440,2800]">
+                          <node resource-id="" selected="false" bounds="[0,160][1440,2800]">
+                            <node resource-id="com.instagram.android:id/layout_container_swipeable" selected="false" bounds="[0,160][1440,2800]">
+                              <node resource-id="" selected="false" bounds="[0,160][1440,2800]">
+                                <node resource-id="com.instagram.android:id/sticky_header_list" selected="false" bounds="[0,160][1440,2800]">
+                                  <node resource-id="com.instagram.android:id/refreshable_container" selected="false" bounds="[0,160][1440,2800]">
+                                    <node resource-id="android:id/list" selected="false" bounds="[0,160][1440,2800]">
+                                      <node resource-id="" selected="false" bounds="[0,160][1440,1923]">
+                                        <node resource-id="" selected="false" bounds="[0,160][1440,1923]">
+                                          <node resource-id="" selected="false" bounds="[0,160][1440,1923]">
+                                            <node resource-id="com.instagram.android:id/zoomable_view_container" selected="false" bounds="[0,160][1440,1923]">
+                                              <node resource-id="com.instagram.android:id/carousel_video_media_group" selected="false" bounds="[0,160][1440,1923]">
+                                                <node resource-id="com.instagram.android:id/carousel_video_media_actions" selected="false" bounds="[0,160][1440,1923]" />
+                                                <node resource-id="com.instagram.android:id/carousel_video_image" selected="false" bounds="[0,160][1440,1923]">
+                                                  <node resource-id="" selected="false" bounds="[0,160][1440,1923]" />
+                                                </node>
+                                                <node resource-id="com.instagram.android:id/hint_icon_container" selected="false" bounds="[664,936][776,992]" />
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                        <node resource-id="" selected="false" bounds="[0,160][1440,1923]">
+                                          <node resource-id="" selected="false" bounds="[0,160][1440,1923]" />
+                                          <node resource-id="" selected="false" bounds="[0,160][1440,1923]">
+                                            <node resource-id="" selected="false" bounds="[1224,1763][1440,1923]">
+                                              <node resource-id="" selected="false" bounds="[1280,1763][1384,1867]">
+                                                <node resource-id="com.instagram.android:id/slideout_iconview_icon" selected="false" bounds="[1306,1789][1358,1841]" />
+                                              </node>
+                                            </node>
+                                          </node>
+                                          <node resource-id="" selected="false" bounds="[720,964][720,964]" />
+                                        </node>
+                                      </node>
+                                      <node resource-id="" selected="false" bounds="[0,1923][1440,2468]">
+                                        <node resource-id="com.instagram.android:id/row_feed_view_group_buttons" selected="false" bounds="[0,1923][1440,2187]">
+                                          <node resource-id="" selected="false" bounds="[48,2003][160,2187]">
+                                            <node resource-id="com.instagram.android:id/row_feed_button_like" selected="false" bounds="[48,2047][144,2143]" />
+                                          </node>
+                                          <node resource-id="" selected="false" bounds="[160,2003][320,2187]">
+                                            <node resource-id="com.instagram.android:id/row_feed_button_comment" selected="false" bounds="[208,2003][304,2187]" />
+                                          </node>
+                                          <node resource-id="" selected="false" bounds="[320,2003][419,2187]" />
+                                          <node resource-id="com.instagram.android:id/reposts_ufi_icon" selected="false" bounds="[419,2003][692,2187]">
+                                            <node resource-id="" selected="false" bounds="[419,2003][595,2187]">
+                                              <node resource-id="" selected="false" bounds="[467,2003][579,2187]" />
+                                            </node>
+                                            <node resource-id="" selected="false" bounds="[595,2003][692,2187]" />
+                                          </node>
+                                          <node resource-id="" selected="false" bounds="[574,1923][866,2043]" />
+                                          <node resource-id="" selected="false" bounds="[716,2003][852,2187]">
+                                            <node resource-id="com.instagram.android:id/row_feed_button_share" selected="false" bounds="[740,2003][836,2187]" />
+                                          </node>
+                                          <node resource-id="" selected="false" bounds="[852,2003][1000,2187]" />
+                                          <node resource-id="com.instagram.android:id/row_feed_button_save" selected="false" bounds="[1256,2003][1432,2171]" />
+                                        </node>
+                                        <node resource-id="" selected="false" bounds="[0,2187][1440,2253]">
+                                          <node resource-id="" selected="false" bounds="[48,2187][1056,2253]">
+                                            <node resource-id="" selected="false" bounds="[278,2187][731,2253]" />
+                                          </node>
+                                        </node>
+                                        <node resource-id="" selected="false" bounds="[0,2269][1440,2359]">
+                                          <node resource-id="" selected="false" bounds="[48,2269][1440,2343]">
+                                            <node resource-id="" selected="false" bounds="[48,2269][403,2335]" />
+                                          </node>
+                                        </node>
+                                        <node resource-id="" selected="false" bounds="[0,2359][1440,2420]" />
+                                      </node>
+                                      <node resource-id="" selected="false" bounds="[0,2468][1440,2516]" />
+                                      <node resource-id="" selected="false" bounds="[0,2516][1440,2800]">
+                                        <node resource-id="com.instagram.android:id/video_container" selected="false" bounds="[0,2516][1440,2800]">
+                                          <node resource-id="com.instagram.android:id/video_container" selected="false" bounds="[0,2516][1440,2800]">
+                                            <node resource-id="" selected="false" bounds="[0,2516][1440,2800]">
+                                              <node resource-id="" selected="false" bounds="[0,2516][1440,2800]">
+                                                <node resource-id="" selected="false" bounds="[0,2516][1440,2800]" />
+                                              </node>
+                                              <node resource-id="" selected="false" bounds="[0,2516][1440,2800]" />
+                                            </node>
+                                          </node>
+                                          <node resource-id="com.instagram.android:id/video_container" selected="false" bounds="[0,2516][1440,2800]">
+                                            <node resource-id="com.instagram.android:id/media_group" selected="false" bounds="[0,2516][1440,2800]">
+                                              <node resource-id="com.instagram.android:id/row_feed_photo_imageview" selected="false" bounds="[0,2516][1440,2800]">
+                                                <node resource-id="" selected="false" bounds="[0,2516][1440,2800]" />
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                        <node resource-id="" selected="false" bounds="[0,2516][1440,2800]" />
+                                        <node resource-id="com.instagram.android:id/row_feed_profile_header" selected="false" bounds="[0,2516][1440,2724]">
+                                          <node resource-id="" selected="false" bounds="[0,2516][196,2724]">
+                                            <node resource-id="" selected="false" bounds="[44,2544][196,2696]" />
+                                            <node resource-id="com.instagram.android:id/row_feed_photo_profile_imageview" selected="false" bounds="[60,2560][180,2680]" />
+                                          </node>
+                                          <node resource-id="com.instagram.android:id/row_feed_photo_profile_name" selected="false" bounds="[196,2516][963,2616]" />
+                                          <node resource-id="" selected="false" bounds="[196,2616][963,2724]">
+                                            <node resource-id="com.instagram.android:id/secondary_label" selected="false" bounds="[196,2616][963,2724]" labels="SUGGESTED_FOR_YOU" description-labels="SUGGESTED_FOR_YOU" />
+                                          </node>
+                                          <node resource-id="com.instagram.android:id/inline_follow_button" selected="false" bounds="[963,2556][1264,2684]" />
+                                          <node resource-id="com.instagram.android:id/media_option_button" selected="false" bounds="[1264,2524][1440,2716]" />
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                                <node resource-id="com.instagram.android:id/action_bar_LinearLayout" selected="false" bounds="[0,160][1440,384]" />
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                      <node resource-id="com.instagram.android:id/tab_bar_shadow" selected="false" bounds="[0,2799][1440,2800]" />
+                      <node resource-id="com.instagram.android:id/tab_bar" selected="false" bounds="[0,2800][1440,2992]">
+                        <node resource-id="com.instagram.android:id/feed_tab" selected="true" bounds="[0,2800][288,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="true" bounds="[96,2848][192,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/clips_tab" selected="false" bounds="[288,2800][576,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="false" bounds="[384,2848][480,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/direct_tab" selected="false" bounds="[576,2800][864,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="false" bounds="[672,2848][768,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/search_tab" selected="false" bounds="[864,2800][1152,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="false" bounds="[960,2848][1056,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/profile_tab" selected="false" bounds="[1152,2800][1440,2992]">
+                          <node resource-id="com.instagram.android:id/wrapper" selected="false" bounds="[1152,2800][1440,2992]">
+                            <node resource-id="com.instagram.android:id/container" selected="false" bounds="[1236,2836][1356,2956]">
+                              <node resource-id="com.instagram.android:id/tab_avatar" selected="false" bounds="[1236,2836][1356,2956]" />
+                            </node>
+                            <node resource-id="com.instagram.android:id/led_badge" selected="false" bounds="[1324,2916][1364,2956]" />
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+                <node resource-id="com.instagram.android:id/bottom_sheet_camera_container" selected="false" bounds="[0,160][1440,2992]" />
+              </node>
+              <node resource-id="com.instagram.android:id/overlay_layout_container" selected="false" bounds="[0,0][1440,2992]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

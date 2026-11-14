@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hierarchy rotation="0">
+  <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+    <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+      <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+        <node resource-id="com.instagram.android:id/action_bar_root" selected="false" bounds="[0,0][1440,3168]">
+          <node resource-id="android:id/content" selected="false" bounds="[0,0][1440,3168]">
+            <node resource-id="" selected="false" bounds="[0,0][1440,3168]">
+              <node resource-id="com.instagram.android:id/swipe_navigation_container" selected="false" bounds="[0,0][1440,3168]">
+                <node resource-id="com.instagram.android:id/layout_container_center_right_coordinator_layout" selected="false" bounds="[0,0][1440,2992]">
+                  <node resource-id="com.instagram.android:id/layout_container_right" selected="false" bounds="[0,160][1440,2992]" />
+                  <node resource-id="com.instagram.android:id/activity_and_camera_shared_views_main_container" selected="false" bounds="[0,160][1440,2992]" />
+                  <node resource-id="com.instagram.android:id/layout_container_main_panel" selected="false" bounds="[0,160][1440,2992]">
+                    <node resource-id="com.instagram.android:id/layout_container_main_wrapper" selected="false" bounds="[0,160][1440,2992]">
+                      <node resource-id="com.instagram.android:id/layout_container_main" selected="false" bounds="[0,160][1440,2800]" />
+                      <node resource-id="com.instagram.android:id/swipeable_tab_view_pager" selected="false" bounds="[0,160][1440,2800]">
+                        <node resource-id="com.instagram.android:id/swipeable_nav_view_pager_inner_recycler_view" selected="false" bounds="[0,160][1440,2800]">
+                          <node resource-id="" selected="false" bounds="[0,160][1440,2800]">
+                            <node resource-id="com.instagram.android:id/layout_container_swipeable" selected="false" bounds="[0,160][1440,2800]">
+                              <node resource-id="" selected="false" bounds="[0,160][1440,2800]">
+                                <node resource-id="com.instagram.android:id/sticky_header_list" selected="false" bounds="[0,160][1440,2800]">
+                                  <node resource-id="com.instagram.android:id/refreshable_container" selected="false" bounds="[0,160][1440,2800]">
+                                    <node resource-id="android:id/list" selected="false" bounds="[0,160][1440,2800]">
+                                      <node resource-id="" selected="false" bounds="[0,160][1440,445]">
+                                        <node resource-id="com.instagram.android:id/recycler_view_container_id" selected="false" bounds="[0,160][1440,381]">
+                                          <node resource-id="" selected="false" bounds="[0,160][1440,381]">
+                                            <node resource-id="" selected="false" bounds="[56,160][824,381]">
+                                              <node resource-id="" selected="false" bounds="[56,160][824,381]">
+                                                <node resource-id="com.instagram.android:id/inline_follow_button" selected="false" bounds="[104,205][776,333]" />
+                                              </node>
+                                            </node>
+                                            <node resource-id="" selected="false" bounds="[872,160][1440,381]">
+                                              <node resource-id="" selected="false" bounds="[872,160][1440,381]">
+                                                <node resource-id="com.instagram.android:id/inline_follow_button" selected="false" bounds="[920,205][1440,333]" />
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                      </node>
+                                      <node resource-id="" selected="false" bounds="[0,445][1440,2597]">
+                                        <node resource-id="" selected="false" bounds="[0,445][1440,2597]">
+                                          <node resource-id="" selected="false" bounds="[0,445][1440,2597]">
+                                            <node resource-id="" selected="false" bounds="[48,493][594,626]">
+                                              <node resource-id="" selected="false" bounds="[48,496][176,624]" />
+                                              <node resource-id="" selected="false" bounds="[224,493][480,565]" />
+                                              <node resource-id="" selected="false" bounds="[224,565][594,626]" />
+                                            </node>
+                                            <node resource-id="" selected="false" bounds="[1008,524][1248,596]">
+                                              <node resource-id="" selected="false" bounds="[1008,524][1216,596]" />
+                                            </node>
+                                            <node resource-id="" selected="false" bounds="[1296,512][1392,608]">
+                                              <node resource-id="" selected="false" bounds="[1296,512][1392,608]" />
+                                            </node>
+                                            <node resource-id="" selected="false" bounds="[0,688][1440,2505]">
+                                              <node resource-id="" selected="false" bounds="[56,688][1280,2505]">
+                                                <node resource-id="" selected="false" bounds="[56,688][1280,2505]">
+                                                  <node resource-id="" selected="false" bounds="[56,688][1280,2505]">
+                                                    <node resource-id="" selected="false" bounds="[56,704][1119,928]">
+                                                      <node resource-id="" selected="false" bounds="[56,704][1119,928]">
+                                                        <node resource-id="" selected="false" bounds="[56,704][1119,928]">
+                                                          <node resource-id="" selected="false" bounds="[104,736][304,928]">
+                                                            <node resource-id="" selected="false" bounds="[104,736][248,880]">
+                                                              <node resource-id="" selected="false" bounds="[104,736][248,880]">
+                                                                <node resource-id="" selected="false" bounds="[104,736][248,880]" />
+                                                              </node>
+                                                            </node>
+                                                            <node resource-id="" selected="false" bounds="[168,800][264,896]">
+                                                              <node resource-id="" selected="false" bounds="[168,800][264,896]">
+                                                                <node resource-id="" selected="false" bounds="[168,800][264,896]">
+                                                                  <node resource-id="" selected="false" bounds="[168,800][264,896]">
+                                                                    <node resource-id="" selected="false" bounds="[168,800][264,896]" />
+                                                                  </node>
+                                                                </node>
+                                                              </node>
+                                                            </node>
+                                                          </node>
+                                                          <node resource-id="" selected="false" bounds="[312,704][1071,928]">
+                                                            <node resource-id="" selected="false" bounds="[312,739][1071,893]">
+                                                              <node resource-id="" selected="false" bounds="[312,739][1071,819]" />
+                                                              <node resource-id="" selected="false" bounds="[312,819][607,893]" />
+                                                            </node>
+                                                          </node>
+                                                        </node>
+                                                      </node>
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[1119,736][1264,896]">
+                                                      <node resource-id="" selected="false" bounds="[1151,768][1232,864]" />
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[104,944][1232,1091]" />
+                                                    <node resource-id="" selected="false" bounds="[104,1139][1232,2339]">
+                                                      <node resource-id="" selected="false" bounds="[104,1139][1232,2339]" />
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[104,2387][168,2457]">
+                                                      <node resource-id="" selected="false" bounds="[104,2387][168,2451]" />
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[184,2387][280,2457]" />
+                                                    <node resource-id="" selected="false" bounds="[328,2387][392,2457]">
+                                                      <node resource-id="" selected="false" bounds="[328,2387][392,2451]" />
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[408,2387][470,2457]" />
+                                                    <node resource-id="" selected="false" bounds="[982,2387][1046,2457]">
+                                                      <node resource-id="" selected="false" bounds="[982,2387][1046,2451]" />
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[1062,2387][1232,2457]" />
+                                                  </node>
+                                                </node>
+                                              </node>
+                                              <node resource-id="" selected="false" bounds="[1328,688][1440,2505]">
+                                                <node resource-id="" selected="false" bounds="[1328,688][1440,2505]">
+                                                  <node resource-id="" selected="false" bounds="[1328,724][1440,2470]">
+                                                    <node resource-id="" selected="false" bounds="[1328,740][1440,964]">
+                                                      <node resource-id="" selected="false" bounds="[1328,740][1440,964]">
+                                                        <node resource-id="" selected="false" bounds="[1328,740][1440,964]">
+                                                          <node resource-id="" selected="false" bounds="[1376,772][1440,964]">
+                                                            <node resource-id="" selected="false" bounds="[1376,772][1440,916]">
+                                                              <node resource-id="" selected="false" bounds="[1376,772][1440,916]">
+                                                                <node resource-id="" selected="false" bounds="[1376,772][1440,916]" />
+                                                              </node>
+                                                            </node>
+                                                          </node>
+                                                        </node>
+                                                      </node>
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[1376,980][1440,1056]" />
+                                                    <node resource-id="" selected="false" bounds="[1376,1104][1440,2304]">
+                                                      <node resource-id="" selected="false" bounds="[1376,1104][1440,2304]" />
+                                                    </node>
+                                                    <node resource-id="" selected="false" bounds="[1376,2352][1440,2422]">
+                                                      <node resource-id="" selected="false" bounds="[1376,2352][1440,2416]" />
+                                                    </node>
+                                                  </node>
+                                                </node>
+                                              </node>
+                                            </node>
+                                          </node>
+                                        </node>
+                                      </node>
+                                      <node resource-id="" selected="false" bounds="[0,2597][1440,2800]">
+                                        <node resource-id="com.instagram.android:id/row_feed_profile_header" selected="false" bounds="[0,2597][1440,2800]">
+                                          <node resource-id="" selected="false" bounds="[0,2597][196,2800]">
+                                            <node resource-id="" selected="false" bounds="[44,2625][196,2777]" />
+                                            <node resource-id="com.instagram.android:id/row_feed_photo_profile_imageview" selected="false" bounds="[60,2641][180,2761]" />
+                                          </node>
+                                          <node resource-id="com.instagram.android:id/row_feed_photo_profile_name" selected="false" bounds="[196,2597][963,2697]" />
+                                          <node resource-id="" selected="false" bounds="[196,2697][963,2800]">
+                                            <node resource-id="com.instagram.android:id/secondary_label" selected="false" bounds="[196,2697][963,2800]" labels="SUGGESTED_FOR_YOU" description-labels="SUGGESTED_FOR_YOU" />
+                                          </node>
+                                          <node resource-id="com.instagram.android:id/inline_follow_button" selected="false" bounds="[963,2637][1264,2765]" />
+                                          <node resource-id="com.instagram.android:id/media_option_button" selected="false" bounds="[1264,2605][1440,2797]" />
+                                        </node>
+                                      </node>
+                                    </node>
+                                  </node>
+                                </node>
+                                <node resource-id="com.instagram.android:id/action_bar_LinearLayout" selected="false" bounds="[0,160][1440,384]" />
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                      <node resource-id="com.instagram.android:id/tab_bar_shadow" selected="false" bounds="[0,2799][1440,2800]" />
+                      <node resource-id="com.instagram.android:id/tab_bar" selected="false" bounds="[0,2800][1440,2992]">
+                        <node resource-id="com.instagram.android:id/feed_tab" selected="true" bounds="[0,2800][288,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="true" bounds="[96,2848][192,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/clips_tab" selected="false" bounds="[288,2800][576,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="false" bounds="[384,2848][480,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/direct_tab" selected="false" bounds="[576,2800][864,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="false" bounds="[672,2848][768,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/search_tab" selected="false" bounds="[864,2800][1152,2992]">
+                          <node resource-id="com.instagram.android:id/tab_icon" selected="false" bounds="[960,2848][1056,2944]" />
+                        </node>
+                        <node resource-id="com.instagram.android:id/profile_tab" selected="false" bounds="[1152,2800][1440,2992]">
+                          <node resource-id="com.instagram.android:id/wrapper" selected="false" bounds="[1152,2800][1440,2992]">
+                            <node resource-id="com.instagram.android:id/container" selected="false" bounds="[1236,2836][1356,2956]">
+                              <node resource-id="com.instagram.android:id/tab_avatar" selected="false" bounds="[1236,2836][1356,2956]" />
+                            </node>
+                            <node resource-id="com.instagram.android:id/led_badge" selected="false" bounds="[1324,2916][1364,2956]" />
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+                <node resource-id="com.instagram.android:id/bottom_sheet_camera_container" selected="false" bounds="[0,160][1440,2992]" />
+              </node>
+              <node resource-id="com.instagram.android:id/overlay_layout_container" selected="false" bounds="[0,0][1440,2992]" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>
